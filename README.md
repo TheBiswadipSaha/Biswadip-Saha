@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TheBiswadipSaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TheBiswadipSaha?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -73,17 +73,19 @@ const biswadip = {
 ## <span style="color: #e1e5e9;">📊 GitHub Analytics</span>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheBiswadipSaha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBiswadipSaha&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBiswadipSaha&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## <span style="color: #e1e5e9;">🎯 Current Focus</span>
+## <span style="color: white;">🎯 Current Focus</span>
+
+<div style="color: white;">
 
 ```mermaid
 mindmap
@@ -101,9 +103,11 @@ mindmap
       MongoDB
     Professional Growth
       SDE-1 at IEM
+      MERN Stack Projects
       System Design
-      Modern Web Development
 ```
+
+</div>
 
 ---
 
@@ -112,13 +116,13 @@ mindmap
 <div style="color: #e1e5e9;">
 
 - 🚀 **Software Development Engineer (SDE-1)** at IEM, building scalable web applications
-- ⚡ **Full-Stack JavaScript Developer** specializing in React.js and Node.js ecosystem
-- 🎨 **Modern Web Developer** with expertise in Next.js and Tailwind CSS
+- ⚡ **MERN Stack Developer** specializing in MongoDB, Express.js, React.js, and Node.js
+- 🎨 **Modern Web Developer** with expertise in Next.js and Tailwind CSS for stunning UI/UX
 - 💾 **Database Architect** experienced with Firebase, MySQL, and MongoDB
 - 🔧 **Development Workflow Expert** using Git/GitHub for version control
-- 📱 **UI/UX Enthusiast** creating designs with Figma and implementing pixel-perfect interfaces
-- 🌱 **Continuous Learner** staying updated with latest JavaScript frameworks and tools
-- 💡 **Problem Solver** with strong analytical skills in C/C++ and Python
+- 📱 **UI/UX Designer** creating pixel-perfect designs with Figma
+- 🌱 **Full-Stack JavaScript Enthusiast** building end-to-end MERN applications
+- 💡 **Problem Solver** with strong analytical skills and passion for clean code
 
 </div>
 
@@ -143,7 +147,7 @@ mindmap
 ## <span style="color: #e1e5e9;">📈 Contribution Graph</span>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheBiswadipSaha&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -152,10 +156,11 @@ mindmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswadip-saha-ba0b90268/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/commonguy.codes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheBiswadipSaha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
@@ -167,7 +172,7 @@ mindmap
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-**⭐ From [Biswadip](https://github.com/yourusername) - Always open to exciting projects and collaboration opportunities!**
+**⭐ From [Biswadip](https://github.com/TheBiswadipSaha) - Always open to exciting projects and collaboration opportunities!**
 
 </div>
 
